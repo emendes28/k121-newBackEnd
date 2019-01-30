@@ -63,7 +63,7 @@
       "^.+\\.(t|j)s$": "ts-jest"
     },
     "engine": {
-        "node": "8.9.0"
+       "node": "10.15.1"
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
